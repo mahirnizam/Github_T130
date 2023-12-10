@@ -1,4 +1,4 @@
-package gitgub;
+package github;
 
 public class C01_github {
     public static void main(String[] args) {
